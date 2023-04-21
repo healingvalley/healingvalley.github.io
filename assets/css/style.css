@@ -577,6 +577,8 @@ header {
         margin-bottom: 30px; } }
     .about-us .story-pic img{
       box-shadow: none;
+      border-radius: 1em;
+      background-color: #BFBC8A;
     }
   .about-us .story{
     border-radius: 1em;
